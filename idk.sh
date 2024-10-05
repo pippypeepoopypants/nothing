@@ -1,1 +1,1 @@
-passwd root
+apt-get install metasploit
